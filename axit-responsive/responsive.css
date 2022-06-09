@@ -1,0 +1,202 @@
+*
+{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+
+
+
+
+@media screen and (max-width: 1200px){
+    .fotobaner-1{
+        flex-wrap: wrap;
+    }
+    .fotoban{
+        width: 100%;
+        position: none;
+        margin-top: 250px;
+    }
+    .fotobantext{
+        width: 100%;
+        text-align: center;
+        height: none;
+    }
+    .center-1{
+        width: 100%;
+        flex-wrap: wrap;
+        height: auto;
+    }
+
+    .center-1-1 { 
+       width: 100%;
+       display: block;
+       text-align: center;
+       margin-top: 750px;
+}
+.iconipsum-1-1-1{
+    
+    margin-top: 30px;
+}
+.xs {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.iconipsummediasoc {
+    width: 90%;
+    margin-top: 20px;
+}
+.gesk {
+    padding-top: 40px;
+
+}
+.geson {
+    width: 100%;
+    display: block;
+    height: auto;
+}
+.mediaiconXS {
+    margin-top: 400px;
+}
+.sociolong{
+    flex-wrap: wrap;
+    margin-top: 250px;
+    height: auto;
+}
+.socioalls {
+    margin: auto;
+}
+.tabsprofile2{
+    margin-top: 300px;
+}
+.container{
+    flex-wrap: wrap;
+    
+    margin: auto;
+}
+.container1{
+    width: 45%;
+}
+.container2{
+    width: 45%;
+    margin: auto;
+    margin-top: 40px;
+}
+.socialman{
+    margin-top: 700px;
+}
+
+}
+
+@media screen and (max-width: 920px){
+    .manu{
+        width: 100%;
+        height: auto;
+    }
+    .tabsprofile2{
+        margin-top: 500px;
+    }
+    .logo{
+        margin: auto;
+    }
+    .logomanu{
+        flex-wrap: wrap;
+        height: auto;
+    }
+    .imgbaner{
+        margin-top: 30px;
+    }
+    .baner{
+        text-align: center;
+        height: auto;
+    }
+    .baner1 {
+        flex-wrap: wrap;
+        height: auto;
+    }
+    .form{
+        width: 100%;
+        margin-bottom: 30px;
+    } 
+
+    .baner1-1{
+        width: 100%;
+    }
+    .xaz {
+        margin: auto;
+        margin-top: 38px;
+    }
+    .shadow{
+        width: 100%;
+        height: auto;
+    }
+    .card{
+        width: 100%; 
+    }
+    .shadow-1{
+        flex-wrap: wrap;
+    }
+    .text1{
+        display: block;
+        text-align: center;
+        width: 100%;
+        height: auto;
+        margin-bottom: 650px;
+        margin-top: 30px;
+    }
+    .shadowfoto{
+        /* width: 100%; */
+        /* background-size: none; */
+        /* margin-top: 0; */
+        /* position: absolute; */
+        /* bottom: -1620px; */
+        /* margin: auto; */
+        background-image: none;
+    }
+    .socioalls{
+        width: 100%;
+    }
+    .texinfo{
+        flex-wrap: wrap;
+    }
+    .socialinfo{
+        margin: auto;
+    }
+    .socialman{
+        margin-top: 900px;
+    }
+}
+
+
+
+@media screen and (max-width: 720px){
+    .baner{
+        height: auto;
+    }
+    .banertext{
+        font-size: 20px;
+    }
+    .social-1{
+        flex-wrap: wrap;
+    }
+    .socialmedia{
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+    .socialmedia-1{
+        width: 100%;
+        font-size: 15px;
+        margin: auto;
+    }
+    .socialinfo{
+        width: 100%;
+        margin-bottom: 100px;
+    }
+    .hederone{
+        width: 100%;
+    }
+}
